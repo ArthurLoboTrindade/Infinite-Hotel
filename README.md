@@ -1,2 +1,5 @@
-# Infinite-Hotel
-A project where the author tries to applie his knowledge about java, jdbc and logic
+# Infinite Hotel
+This project will try to apply David Hilbert's thought experiment using java to acces a pgsql database, creating the infinite hotel.
+
+
+
